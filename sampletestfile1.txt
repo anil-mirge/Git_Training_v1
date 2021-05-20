@@ -3,3 +3,4 @@ This is another text added for merge example
 Git Revert Commit1
 Some Comparision text
 This is stash demo for sampletestfile1
+Stash demo
